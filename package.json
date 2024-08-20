@@ -4,7 +4,7 @@
   "description": "the fresh code editor template",
   "repository": "git@github.com:jalzae/jalz-studio.git",
   "publisher": "Jalzae",
-  "version": "0.0.3",
+  "version": "0.0.7",
   "icon": "icon.png",
   "engines": {
     "vscode": "^1.92.0"
@@ -20,7 +20,7 @@
         "path": "./themes/Jalz Studio-color-theme.json"
       },
       {
-        "label": "Jalz Ligh Studio",
+        "label": "Jalz Light Studio",
         "uiTheme": "vs",
         "path": "./themes/Jalz Light Studio-color-theme.json"
       }
