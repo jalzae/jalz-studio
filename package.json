@@ -4,7 +4,7 @@
   "description": "the fresh code editor template",
   "repository": "git@github.com:jalzae/jalz-studio.git",
   "publisher": "Jalzae",
-  "version": "0.0.9",
+  "version": "1.0.0",
   "icon": "icon.png",
   "engines": {
     "vscode": "^1.92.0"
