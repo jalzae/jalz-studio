@@ -1,0 +1,23 @@
+{
+  "name": "jalz-studio",
+  "displayName": "Jalz Studio",
+  "description": "the fresh code editor template",
+  "repository": "git@github.com:jalzae/jalz-studio.git",
+  "publisher": "Jalzae",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Jalz Studio",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Jalz Studio-color-theme.json"
+      }
+    ]
+  }
+}
